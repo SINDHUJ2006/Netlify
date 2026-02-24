@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkcyan;
+    text-align: center;
+}
+header{
+    background-color:darkcyan;
+    color:aliceblue;
+    padding:40px 20px;
+}
+button{
+    padding:10px 20px;
+    border:none;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    cursor:pointer;
+    border-radius:5px;
+}
+button:hover{
+    background-color: #ddd;
+}
+section{
+    padding: 30px;
+}
+.about{
+    background-color: white;
+}
+.projects{
+    background-color: #e8f5e9;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding:15px;
+}
