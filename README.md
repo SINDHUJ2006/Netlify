@@ -4,3 +4,4 @@ The folder has the following files:
 -index.html
 -style.css
 -script.js
+c:\Users\Sindhu\Desktop\netlify\index.html
